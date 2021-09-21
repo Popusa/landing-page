@@ -83,7 +83,38 @@ button{
     align-items: center;
     justify-content: center;
     gap: 128px;
+    margin:52px;
 }
 .minicontainer{
     max-width: 15%;
+}
+.text{
+    font-weight: bold;
+}
+.thirdbodycontainer{
+    background-color: #E5E7EB;
+}
+.tbtext{
+    display: flex;
+    padding:64px;
+    font-style:italic;
+    font-size: 36px;
+    color:#1f2937;
+    font-family:'Times New Roman', Times, serif;
+    align-items:center;
+    justify-content:center;
+}
+.quotename{
+    display:flex;
+    justify-content:right;
+    font-weight:bold;
+    font-size: 24px;
+    margin:32px;
+    padding:32px;
+}
+.lastbodycontainer{
+
+}
+.CTA{
+    background-color:#3882f6;
 }
