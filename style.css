@@ -60,7 +60,7 @@ h1{
 h2{
     font-size:16px;
 }
-button{
+.button1{
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 12px;
@@ -112,9 +112,43 @@ button{
     margin:32px;
     padding:32px;
 }
-.lastbodycontainer{
-
+h4,
+h5{
+    color:#F9FAF8;
 }
+h4{
+font-size: 24px;
+}
+h5{
+font-size: 12px;
+}
+.lastbodycontainer{
+    display:flex;
+    justify-content:center;
+    }
 .CTA{
     background-color:#3882f6;
+    display:flex;
+    margin:32px;
+    padding:40px;
+    gap:64px;
+    border-radius: 8px;
+}
+.CTAtext{
+display:flex;
+flex-direction:column;
+}
+.CTAbutton{
+display:flex;
+justify-content:center;
+align-items:center;
+}
+.button2{
+    border-radius: 12px;
+    background-color:#3882f6;
+    color:#F9FAF8;
+    font-weight:bold;
+}
+footer{
+    
 }
