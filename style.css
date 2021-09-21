@@ -125,7 +125,8 @@ font-size: 12px;
 .lastbodycontainer{
     display:flex;
     justify-content:center;
-    }
+    margin:64px;
+}
 .CTA{
     background-color:#3882f6;
     display:flex;
@@ -150,5 +151,9 @@ align-items:center;
     font-weight:bold;
 }
 footer{
-    
+    display:flex;
+    background-color:#1f2937;
+    color:#E5E7EB;
+    justify-content: center;
+padding:24px;
 }
