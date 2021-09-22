@@ -79,6 +79,7 @@ h2{
     height:50%;
 }
 .secondbodycontainer{
+    padding: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -93,6 +94,7 @@ h2{
 }
 .thirdbodycontainer{
     background-color: #E5E7EB;
+    padding: 256px;
 }
 .tbtext{
     display: flex;
@@ -123,6 +125,7 @@ h5{
 font-size: 12px;
 }
 .lastbodycontainer{
+    padding:204px;
     display:flex;
     justify-content:center;
     margin:64px;
