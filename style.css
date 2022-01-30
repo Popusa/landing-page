@@ -158,5 +158,6 @@ footer{
     background-color:#1f2937;
     color:#E5E7EB;
     justify-content: center;
-padding:24px;
+    padding:24px;
+    gap:8px;
 }
